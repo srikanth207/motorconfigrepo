@@ -1,0 +1,40 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build directories
+/out/
+/target/
+/build/
+/dist/
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Java / Spring Boot
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+*.gradle
+!gradle-wrapper.jar
+
+# Maven
+.mvn/
+.settings/
+.classpath
+.project
+
+# VS Code (if some teammates use it)
+.vscode/
