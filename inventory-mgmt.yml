@@ -11,5 +11,5 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.MySQLDialect
 contact-info:
-  contactNumber: +91-11111111111
+  contactNumber: +91-11111111112
   emailAddress: contact-us@motorcorp.com
